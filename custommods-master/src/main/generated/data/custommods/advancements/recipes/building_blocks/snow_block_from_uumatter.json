@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "custommods:snow_block_from_uumatter"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_uumatter": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "custommods:uumatter"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_uumatter",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "custommods:snow_block_from_uumatter"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    "UUU"
+  ],
+  "result": {
+    "count": 16,
+    "item": "minecraft:snowball"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    " U ",
+    "U U",
+    "UUU"
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:glowstone"
+  },
+  "show_notification": true
+}

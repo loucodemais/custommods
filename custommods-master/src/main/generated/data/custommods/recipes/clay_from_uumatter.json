@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    "UU ",
+    "U  ",
+    "UU "
+  ],
+  "result": {
+    "count": 48,
+    "item": "minecraft:clay_ball"
+  },
+  "show_notification": true
+}

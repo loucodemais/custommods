@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:tin_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_uumatter": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "custommods:uumatter"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_uumatter",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:tin_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

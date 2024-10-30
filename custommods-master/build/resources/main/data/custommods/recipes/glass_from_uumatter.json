@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    " U ",
+    "U U",
+    " U "
+  ],
+  "result": {
+    "count": 32,
+    "item": "minecraft:glass"
+  },
+  "show_notification": true
+}

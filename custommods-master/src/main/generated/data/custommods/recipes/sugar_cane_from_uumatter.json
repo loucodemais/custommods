@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    "U U",
+    "U U",
+    "U U"
+  ],
+  "result": {
+    "count": 48,
+    "item": "minecraft:sugar_cane"
+  },
+  "show_notification": true
+}

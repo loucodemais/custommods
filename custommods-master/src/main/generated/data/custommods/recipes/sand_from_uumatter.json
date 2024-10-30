@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    "   ",
+    "  U",
+    " U "
+  ],
+  "result": {
+    "count": 16,
+    "item": "minecraft:sand"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    "UU ",
+    "  U",
+    "UU "
+  ],
+  "result": {
+    "count": 32,
+    "item": "minecraft:cocoa_beans"
+  },
+  "show_notification": true
+}

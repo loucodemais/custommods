@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    "  U",
+    "U  ",
+    "  U"
+  ],
+  "result": {
+    "count": 20,
+    "item": "minecraft:coal"
+  },
+  "show_notification": true
+}

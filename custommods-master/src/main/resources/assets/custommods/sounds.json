@@ -1,0 +1,7 @@
+{
+  "elevator_move": {
+    "sounds": [
+      "sounds/elevator"
+    ]
+  }
+}

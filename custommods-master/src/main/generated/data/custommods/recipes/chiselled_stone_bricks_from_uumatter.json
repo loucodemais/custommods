@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    "UU ",
+    "UU ",
+    "   "
+  ],
+  "result": {
+    "count": 48,
+    "item": "minecraft:chiseled_stone_bricks"
+  },
+  "show_notification": true
+}

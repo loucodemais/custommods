@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    "U U",
+    "   ",
+    " U "
+  ],
+  "result": {
+    "count": 12,
+    "item": "minecraft:white_wool"
+  },
+  "show_notification": true
+}

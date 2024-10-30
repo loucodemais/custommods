@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    "   ",
+    " U ",
+    "U U"
+  ],
+  "result": {
+    "count": 16,
+    "item": "minecraft:mossy_cobblestone"
+  },
+  "show_notification": true
+}

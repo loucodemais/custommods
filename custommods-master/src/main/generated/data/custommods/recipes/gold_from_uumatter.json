@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    " U ",
+    "UUU",
+    " U "
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:gold_ore"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    " UU",
+    "   ",
+    "   "
+  ],
+  "result": {
+    "count": 8,
+    "item": "minecraft:oak_log"
+  },
+  "show_notification": true
+}

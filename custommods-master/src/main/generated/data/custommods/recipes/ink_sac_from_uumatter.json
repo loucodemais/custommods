@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    " UU",
+    " UU",
+    " U "
+  ],
+  "result": {
+    "count": 48,
+    "item": "minecraft:ink_sac"
+  },
+  "show_notification": true
+}

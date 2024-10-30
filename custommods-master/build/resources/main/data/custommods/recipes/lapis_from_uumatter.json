@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    " U ",
+    " U ",
+    " UU"
+  ],
+  "result": {
+    "count": 9,
+    "item": "minecraft:lapis_lazuli"
+  },
+  "show_notification": true
+}

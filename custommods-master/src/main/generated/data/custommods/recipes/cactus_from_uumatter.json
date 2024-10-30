@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    " U ",
+    "UUU",
+    "U U"
+  ],
+  "result": {
+    "count": 48,
+    "item": "minecraft:cactus"
+  },
+  "show_notification": true
+}

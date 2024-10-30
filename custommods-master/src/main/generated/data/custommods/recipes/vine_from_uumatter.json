@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    "U  ",
+    "U  ",
+    "U  "
+  ],
+  "result": {
+    "count": 24,
+    "item": "minecraft:vine"
+  },
+  "show_notification": true
+}

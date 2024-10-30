@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "U": {
+      "item": "custommods:uumatter"
+    }
+  },
+  "pattern": [
+    " U ",
+    "UU ",
+    "UU "
+  ],
+  "result": {
+    "count": 32,
+    "item": "minecraft:flint"
+  },
+  "show_notification": true
+}

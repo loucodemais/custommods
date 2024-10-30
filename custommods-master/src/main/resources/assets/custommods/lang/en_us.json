@@ -1,0 +1,14 @@
+{
+  "block.custommods.elevator": "Elevator",
+
+  "block.custommods.carpenter": "Carpenter's block",
+
+  "block.custommods.mass_fabricator": "Mass Fabricator",
+  "item.custommods.uumatter": "UU-Matter",
+  "item.custommods.sticky_resin": "Sticky Resin",
+  "item.custommods.laser_gun": "Laser Gun",
+
+  "itemgroup.openblocks": "Openblocks",
+  "itemgroup.carpenters": "Carpenters",
+  "itemgroup.ic2": "Industrial Craft 2"
+}
